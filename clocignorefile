@@ -1,0 +1,12 @@
+node_modules
+node_modules/
+node_modules/*
+node_modules/**
+./node_modules
+./node_modules/
+./node_modules/*
+./node_modules/**
+./nativeClient/node_modules
+./nativeClient/node_modules/
+./nativeClient/node_modules/*
+./nativeClient/node_modules/**
