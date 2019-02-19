@@ -1,2 +1,5 @@
 ./node_modules
 ./nativeClient/node_modules
+fetchTask/\.DS_Store
+
+\.DS_Store
